@@ -7,6 +7,10 @@
     {
       "tooltip": "Robotcord Supporter",
       "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Supporter.png"
+    },
+    {
+      "tooltip": "Verified User",
+      "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Verified.png"
     }
   ],
   "1490594964961361971": [
