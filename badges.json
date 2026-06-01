@@ -18,5 +18,11 @@
       "tooltip": "Robotcord Developer",
       "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Developer.png"
     }
+  ],
+  "1485561740988121140": [
+    {
+      "tooltip": "Verified User",
+      "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Verified.png"
+    }
   ]
 }
