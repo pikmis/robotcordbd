@@ -1,14 +1,18 @@
 {
   "1382775947563892776": [
     {
-      "tooltip": "Developer Robotcord",
-      "badge": "https://raw.githubusercontent.com/pikmis/robotcord/refs/heads/main/Developer.png"
+      "tooltip": "Robotcord Developer",
+      "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Developer.png"
+    },
+    {
+      "tooltip": "Robotcord Supporter",
+      "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Supporter.png"
     }
   ],
   "1490594964961361971": [
     {
-      "tooltip": "Developer Robotcord",
-      "badge": "https://raw.githubusercontent.com/pikmis/robotcord/refs/heads/main/Developer.png"
+      "tooltip": "Robotcord Developer",
+      "badge": "https://raw.githubusercontent.com/pikmis/robotcordbd/refs/heads/main/Developer.png"
     }
   ]
 }
