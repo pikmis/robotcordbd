@@ -1,10 +1,10 @@
 {
-    "1510579526315282572": {
-        "tooltip": "Verified by Robotcord",
-        "badge": "verified"
-    },
     "1492230131127685270": {
+        "tooltip": "Verified by Robotcord",
+        "badge": "https://raw.githubusercontent.com/pikmis/robotcord/refs/heads/main/Developer.png"
+    },
+    "1510579526315282572": {
         "tooltip": "Official Robotcord Channel",
-        "badge": "verified"
+        "badge": "https://raw.githubusercontent.com/pikmis/robotcord/refs/heads/main/Developer.png"
     }
 }
